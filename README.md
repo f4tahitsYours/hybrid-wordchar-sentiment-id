@@ -1,4 +1,4 @@
-# 🔬 Evaluasi Robustness Model Sentimen Bahasa Indonesia terhadap Noise Sintetis Menggunakan Arsitektur Hybrid Word-Character Lightweight
+# 🔬 Analisis Kuantitatif Ketahanan Model Klasifikasi Sentimen Bahasa Indonesia terhadap Gangguan Tipografi melalui Fusi Fitur Word-Level dan Character-Level
 
 <div align="center">
 
