@@ -1,0 +1,23 @@
+# Dataset — terlalu besar untuk GitHub
+data/
+
+# Trained models & tokenizers
+models/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Colab local cache
+/content/local_project/

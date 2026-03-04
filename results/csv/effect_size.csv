@@ -1,0 +1,5 @@
+dataset,cohens_d,interpretasi
+Clean (0%),-0.0127,Sangat Kecil
+Noise 10%,-0.0119,Sangat Kecil
+Noise 20%,0.0029,Sangat Kecil
+Noise 30%,0.0252,Sangat Kecil

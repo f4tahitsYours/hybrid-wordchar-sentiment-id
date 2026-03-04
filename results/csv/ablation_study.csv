@@ -1,0 +1,3 @@
+Konfigurasi,Clean Accuracy,Noise30 Accuracy,Drop Acc%,Clean Macro F1,Noise30 Macro F1,Drop F1%,Robustness Score
+Word-Only (Baseline),0.8243,0.7991,3.06,0.7197,0.6817,5.28,0.9694
+Word+Char (Hybrid),0.8195,0.8092,1.26,0.6861,0.6544,4.62,0.9874

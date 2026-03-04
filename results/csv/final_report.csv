@@ -1,0 +1,5 @@
+Noise Level,Baseline Accuracy,Hybrid Accuracy,Δ Accuracy,Baseline Macro F1,Hybrid Macro F1,Δ Macro F1,Baseline Drop Acc%,Hybrid Drop Acc%,Baseline Drop F1%,Hybrid Drop F1%
+Clean (0%),0.8243,0.8195,-0.0048,0.7197,0.6861,-0.0336,0.0,0.0,0.0,0.0
+Noise 10%,0.8203,0.8157,-0.0046,0.7101,0.6773,-0.0328,0.49,0.46,1.33,1.28
+Noise 20%,0.8129,0.814,0.0011,0.6971,0.6651,-0.032,1.38,0.67,3.14,3.06
+Noise 30%,0.7991,0.8092,0.0101,0.6817,0.6544,-0.0273,3.06,1.26,5.28,4.62

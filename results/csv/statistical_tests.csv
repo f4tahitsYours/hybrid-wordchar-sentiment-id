@@ -1,0 +1,5 @@
+dataset,t_stat,t_p,w_stat,w_p,sig_ttest,sig_wilcox
+Clean (0%),-0.8802,0.378812,33286.0,0.378737,❌ Tidak Signifikan,❌ Tidak Signifikan
+Noise 10%,-0.8207,0.411848,34671.0,0.41177,❌ Tidak Signifikan,❌ Tidak Signifikan
+Noise 20%,0.1942,0.846007,44625.0,0.845975,❌ Tidak Signifikan,❌ Tidak Signifikan
+Noise 30%,1.5929,0.111272,54208.0,0.11126,❌ Tidak Signifikan,❌ Tidak Signifikan
